@@ -1,0 +1,32 @@
+sudo apt update; sudo apt upgrade -y; sudo apt install apache2 -y; sudo apt install software-properties-common; sudo add-apt-repository ppa:ondrej/php; sudo apt update; sudo apt upgrade -y; sudo apt -y install php8.1; sudo apt install php8.1-{mbstring,curl,mysql,ldap,zip,bcmath,xml,gd} -y; sudo apt install mysql-server -y; sudo mysql -u root
+
+CREATE DATABASE snipeitdb;
+CREATE USER 'tommy'@'localhost' IDENTIFIED BY 'Borehole@1';
+GRANT ALL PRIVILEGES ON snipeitdb.* TO 'tommy'@'localhost';
+FLUSH PRIVILEGES;
+EXIT
+
+sudo mkdir /var/www/html/snipeit; sudo chown tommy:tommy /var/www/html/snipeit; cd /var/www/html/snipeit; sudo apt install git; git clone https://github.com/snipe/snipe-it .; cp .env.example .env; nano .env
+
+sudo apt install curl; sudo curl -sS https://getcomposer.org/installer | php; php composer.phar install --no-dev --prefer-source; php artisan key:generate; sudo chown -R tommy:www-data /var/www/html/snipeit; sudo chmod -R g-w /var/www/html/snipeit; sudo chmod -R g+w /var/www/html/snipeit/public/uploads; sudo cp /etc/apache2/sites-available/000-default.conf /etc/apache2/sites-available/snipeit.conf; sudo nano /etc/apache2/sites-available/snipeit.conf
+
+sudo a2dissite 000-default.conf; sudo a2ensite snipeit.conf; sudo a2enmod rewrite; sudo chown -R www-data:www-data /var/www/html/snipeit/; sudo systemctl reload apache2
+
+sudo apt install nbtscan; sudo apt install python3-pip -y; sudo apt-get install python-is-python3; pip install pandas; pip install termcolor; pip install pymysql; pip install requests; pip install mysql-connector-python
+
+
+
+
+
+http://172.27.169.201
+
+smtp.office365.com
+
+tommy.pham22@boreholeseismic.com
+P@wc4rku5l31
+
+<Directory /var/www/html/snipeit/public>
+	Allow From All
+	AllowOverride All
+	Options -Indexes
+</Directory>

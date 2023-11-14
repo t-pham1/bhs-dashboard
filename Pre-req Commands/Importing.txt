@@ -1,0 +1,16 @@
+sudo mysql
+
+GRANT FILE ON *.* TO 'tommy'@'localhost';
+FLUSH PRIVILEGES;
+USE snipeitdb;
+ALTER TABLE assets
+ADD category varchar(255),
+ADD manufacturer varchar(255),
+ADD model_name varchar(255);
+EXIT
+
+chmod +rX /home/tommy/Snipe-IT/Scripts/spreadsheet.csv; chmod +r /home/tommy/Snipe-IT/Scripts/spreadsheet.csv
+
+cd ..; cd ..; cd etc/mysql/mysql.conf.d; sudo nano mysqld.cnf
+secure_file_priv=""
+sudo systemctl restart mysql

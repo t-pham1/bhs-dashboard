@@ -1,0 +1,436 @@
+ID,asset_tag,Category,Name,IP Address,MAC Address,Status,Manufacturer,Model Name,model_id
+1,1,Workstations,NULL,10.1.10.1,NULL,5,N/A,N/A,2
+2,2,Workstations,NULL,10.1.10.2,NULL,5,N/A,N/A,2
+3,3,Workstations,NULL,10.1.10.3,NULL,5,N/A,N/A,2
+4,4,Workstations,IT0001S-IMAC-2,10.1.10.4,ec:35:86:2e:63:1c,4,N/A,N/A,2
+5,5,Workstations,NULL,10.1.10.5,NULL,5,N/A,N/A,2
+6,6,Workstations,NULL,10.1.10.6,NULL,5,N/A,N/A,2
+7,7,Workstations,NULL,10.1.10.7,NULL,5,N/A,N/A,2
+8,8,Workstations,NULL,10.1.10.8,NULL,5,N/A,N/A,2
+9,9,Workstations,NULL,10.1.10.9,NULL,5,N/A,N/A,2
+10,10,Workstations,NULL,10.1.10.10,NULL,5,N/A,N/A,2
+11,11,Workstations,NULL,10.1.10.11,NULL,5,N/A,N/A,2
+12,12,Workstations,NULL,10.1.10.12,NULL,5,N/A,N/A,2
+13,13,Workstations,NULL,10.1.10.13,NULL,5,N/A,N/A,2
+14,14,Workstations,NULL,10.1.10.14,NULL,5,N/A,N/A,2
+15,15,Workstations,NULL,10.1.10.15,NULL,5,N/A,N/A,2
+16,16,Workstations,NULL,10.1.10.16,NULL,5,N/A,N/A,2
+17,17,Workstations,NULL,10.1.10.17,NULL,5,N/A,N/A,2
+18,18,Workstations,IT0141,10.1.10.18,10:dd:b1:c6:ce:6f,4,N/A,N/A,2
+19,19,Workstations,NULL,10.1.10.19,NULL,5,N/A,N/A,2
+20,20,Workstations,NULL,10.1.10.20,NULL,5,N/A,N/A,2
+21,21,Workstations,NULL,10.1.10.21,NULL,5,N/A,N/A,2
+22,22,Workstations,NULL,10.1.10.22,NULL,5,N/A,N/A,2
+23,23,Workstations,NULL,10.1.10.23,NULL,5,N/A,N/A,2
+24,24,Workstations,NULL,10.1.10.24,NULL,5,N/A,N/A,2
+25,25,Workstations,NULL,10.1.10.25,NULL,5,N/A,N/A,2
+26,26,Workstations,NULL,10.1.10.26,NULL,5,N/A,N/A,2
+27,27,Workstations,NULL,10.1.10.27,NULL,5,N/A,N/A,2
+28,28,Workstations,NULL,10.1.10.28,NULL,5,N/A,N/A,2
+29,29,Workstations,IT0083-BOREHOLE,10.1.10.29,90:72:40:01:15:03,4,N/A,N/A,2
+30,30,Workstations,NULL,10.1.10.30,NULL,5,N/A,N/A,2
+31,31,Workstations,NULL,10.1.10.31,NULL,5,N/A,N/A,2
+32,32,Workstations,NULL,10.1.10.32,NULL,5,N/A,N/A,2
+33,33,Workstations,NULL,10.1.10.33,NULL,5,N/A,N/A,2
+34,34,Workstations,NULL,10.1.10.34,NULL,5,N/A,N/A,2
+35,35,Workstations,NULL,10.1.10.35,NULL,5,N/A,N/A,2
+36,36,Workstations,NULL,10.1.10.36,NULL,5,N/A,N/A,2
+37,37,Workstations,IMAC-0B4522,10.1.10.37,38:f9:d3:0b:45:22,4,N/A,N/A,2
+38,38,Workstations,NULL,10.1.10.38,NULL,5,N/A,N/A,2
+39,39,Workstations,NULL,10.1.10.39,NULL,5,N/A,N/A,2
+40,40,Workstations,NULL,10.1.10.40,NULL,5,N/A,N/A,2
+41,41,Workstations,NULL,10.1.10.41,NULL,5,N/A,N/A,2
+42,42,Workstations,NULL,10.1.10.42,NULL,5,N/A,N/A,2
+43,43,Workstations,NULL,10.1.10.43,NULL,5,N/A,N/A,2
+44,44,Workstations,NULL,10.1.10.44,NULL,5,N/A,N/A,2
+45,45,Workstations,NULL,10.1.10.45,NULL,5,N/A,N/A,2
+46,46,Workstations,NULL,10.1.10.46,NULL,5,N/A,N/A,2
+47,47,Workstations,NULL,10.1.10.47,NULL,5,N/A,N/A,2
+48,48,Workstations,NULL,10.1.10.48,NULL,5,N/A,N/A,2
+49,49,Workstations,BHSS-ZHAO,10.1.10.49,70:cd:60:aa:15:6f,4,N/A,N/A,2
+50,50,Workstations,NULL,10.1.10.50,NULL,5,N/A,N/A,2
+51,51,Workstations,NULL,10.1.10.51,NULL,5,N/A,N/A,2
+52,52,Workstations,IT0141,10.1.10.52,10:dd:b1:c6:ce:6f,4,N/A,N/A,2
+53,53,Workstations,BHSADMINS-IMAC,10.1.10.53,0c:4d:e9:a5:ee:51,4,N/A,N/A,2
+54,54,Workstations,IT0302-BO-107,10.1.10.54,bc:6a:2f:98:52:6d,4,N/A,N/A,2
+55,55,Workstations,NULL,10.1.10.55,NULL,5,N/A,N/A,2
+56,56,Workstations,NULL,10.1.10.56,NULL,5,N/A,N/A,2
+57,57,Workstations,MACMINI-C917E4,10.1.10.57,10:dd:b1:c9:17:e4,4,N/A,N/A,2
+58,58,Workstations,IMAC-0B4522,10.1.10.58,38:f9:d3:0b:45:22,4,N/A,N/A,2
+59,59,Workstations,NULL,10.1.10.59,NULL,5,N/A,N/A,2
+60,60,Workstations,NULL,10.1.10.60,NULL,5,N/A,N/A,2
+61,61,Workstations,NULL,10.1.10.61,NULL,5,N/A,N/A,2
+62,62,Workstations,NULL,10.1.10.62,NULL,5,N/A,N/A,2
+63,63,Workstations,IMAC-5C333E,10.1.10.63,a4:83:e7:5b:d1:23,4,N/A,N/A,2
+64,64,Workstations,NULL,10.1.10.64,NULL,5,N/A,N/A,2
+65,65,Workstations,NULL,10.1.10.65,NULL,5,N/A,N/A,2
+66,66,Workstations,NULL,10.1.10.66,NULL,5,N/A,N/A,2
+67,67,Workstations,MACBOOK-PRO-2,10.1.10.67,3c:15:c2:b9:d8:78,4,N/A,N/A,2
+68,68,Workstations,NULL,10.1.10.68,NULL,5,N/A,N/A,2
+69,69,Workstations,NULL,10.1.10.69,NULL,5,N/A,N/A,2
+70,70,Workstations,NULL,10.1.10.70,NULL,5,N/A,N/A,2
+71,71,Workstations,NULL,10.1.10.71,NULL,5,N/A,N/A,2
+72,72,Workstations,NULL,10.1.10.72,NULL,5,N/A,N/A,2
+73,73,Workstations,NULL,10.1.10.73,NULL,5,N/A,N/A,2
+74,74,Workstations,NULL,10.1.10.74,NULL,5,N/A,N/A,2
+75,75,Workstations,NULL,10.1.10.75,NULL,5,N/A,N/A,2
+76,76,Workstations,NULL,10.1.10.76,NULL,5,N/A,N/A,2
+77,77,Workstations,NULL,10.1.10.77,NULL,5,N/A,N/A,2
+78,78,Workstations,NULL,10.1.10.78,NULL,5,N/A,N/A,2
+79,79,Workstations,NULL,10.1.10.79,NULL,5,N/A,N/A,2
+80,80,Workstations,NULL,10.1.10.80,NULL,5,N/A,N/A,2
+81,81,Workstations,NULL,10.1.10.81,NULL,5,N/A,N/A,2
+82,82,Workstations,NULL,10.1.10.82,NULL,5,N/A,N/A,2
+83,83,Workstations,NULL,10.1.10.83,NULL,5,N/A,N/A,2
+84,84,Workstations,NULL,10.1.10.84,NULL,5,N/A,N/A,2
+85,85,Workstations,NULL,10.1.10.85,NULL,5,N/A,N/A,2
+86,86,Workstations,NULL,10.1.10.86,NULL,5,N/A,N/A,2
+87,87,Workstations,NULL,10.1.10.87,NULL,5,N/A,N/A,2
+88,88,Workstations,NULL,10.1.10.88,NULL,5,N/A,N/A,2
+89,89,Workstations,NULL,10.1.10.89,NULL,5,N/A,N/A,2
+90,90,Workstations,NULL,10.1.10.90,NULL,5,N/A,N/A,2
+91,91,Workstations,NULL,10.1.10.91,NULL,5,N/A,N/A,2
+92,92,Workstations,NULL,10.1.10.92,NULL,5,N/A,N/A,2
+93,93,Workstations,NULL,10.1.10.93,NULL,5,N/A,N/A,2
+94,94,Workstations,NULL,10.1.10.94,NULL,5,N/A,N/A,2
+95,95,Workstations,NULL,10.1.10.95,NULL,5,N/A,N/A,2
+96,96,Workstations,NULL,10.1.10.96,NULL,5,N/A,N/A,2
+97,97,Workstations,NULL,10.1.10.97,NULL,5,N/A,N/A,2
+98,98,Workstations,NULL,10.1.10.98,NULL,5,N/A,N/A,2
+99,99,Workstations,NULL,10.1.10.99,NULL,5,N/A,N/A,2
+100,100,Workstations,NULL,10.1.10.100,NULL,5,N/A,N/A,2
+101,101,Workstations,NULL,10.1.10.101,NULL,5,N/A,N/A,2
+102,102,Workstations,NULL,10.1.10.102,NULL,5,N/A,N/A,2
+103,103,Workstations,NULL,10.1.10.103,NULL,5,N/A,N/A,2
+104,104,Workstations,NULL,10.1.10.104,NULL,5,N/A,N/A,2
+105,105,Workstations,NULL,10.1.10.105,NULL,5,N/A,N/A,2
+106,106,Workstations,DESKTOP-U2KPB45,10.1.10.106,7c:70:db:87:84:62,4,N/A,N/A,2
+107,107,Workstations,NULL,10.1.10.107,NULL,5,N/A,N/A,2
+108,108,Workstations,NULL,10.1.10.108,NULL,5,N/A,N/A,2
+109,109,Workstations,NULL,10.1.10.109,NULL,5,N/A,N/A,2
+110,110,Workstations,NULL,10.1.10.110,NULL,5,N/A,N/A,2
+111,111,Workstations,NULL,10.1.10.111,NULL,5,N/A,N/A,2
+112,112,Workstations,ONYX-0037,10.1.10.112,00:00:00:00:00:00,4,N/A,N/A,2
+113,113,Workstations,NULL,10.1.10.113,NULL,5,N/A,N/A,2
+114,114,Workstations,NULL,10.1.10.114,NULL,5,N/A,N/A,2
+115,115,Workstations,NULL,10.1.10.115,NULL,5,N/A,N/A,2
+116,116,Workstations,NULL,10.1.10.116,NULL,5,N/A,N/A,2
+117,117,Workstations,NULL,10.1.10.117,NULL,5,N/A,N/A,2
+118,118,Workstations,NULL,10.1.10.118,NULL,5,N/A,N/A,2
+119,119,Workstations,NULL,10.1.10.119,NULL,5,N/A,N/A,2
+120,120,Workstations,NULL,10.1.10.120,NULL,5,N/A,N/A,2
+121,121,Workstations,NULL,10.1.10.121,NULL,5,N/A,N/A,2
+122,122,Workstations,MACBOOKPRO-29BD,10.1.10.122,f0:2f:4b:0f:29:bd,4,N/A,N/A,2
+123,123,Workstations,NULL,10.1.10.123,NULL,5,N/A,N/A,2
+124,124,Workstations,NULL,10.1.10.124,NULL,5,N/A,N/A,2
+125,125,Workstations,NULL,10.1.10.125,NULL,5,N/A,N/A,2
+126,126,Workstations,NULL,10.1.10.126,NULL,5,N/A,N/A,2
+127,127,Workstations,NULL,10.1.10.127,NULL,5,N/A,N/A,2
+128,128,Workstations,NULL,10.1.10.128,NULL,5,N/A,N/A,2
+129,129,Workstations,NULL,10.1.10.129,NULL,5,N/A,N/A,2
+130,130,Workstations,NULL,10.1.10.130,NULL,5,N/A,N/A,2
+131,131,Workstations,NULL,10.1.10.131,NULL,5,N/A,N/A,2
+132,132,Workstations,NULL,10.1.10.132,NULL,5,N/A,N/A,2
+133,133,Workstations,NULL,10.1.10.133,NULL,5,N/A,N/A,2
+134,134,Workstations,NULL,10.1.10.134,NULL,5,N/A,N/A,2
+135,135,Workstations,NULL,10.1.10.135,NULL,5,N/A,N/A,2
+136,136,Workstations,NULL,10.1.10.136,NULL,5,N/A,N/A,2
+137,137,Workstations,NULL,10.1.10.137,NULL,5,N/A,N/A,2
+138,138,Workstations,NULL,10.1.10.138,NULL,5,N/A,N/A,2
+139,139,Workstations,NULL,10.1.10.139,NULL,5,N/A,N/A,2
+140,140,Workstations,NULL,10.1.10.140,NULL,5,N/A,N/A,2
+141,141,Workstations,AXEL,10.1.10.141,3c:07:54:72:3d:5d,4,N/A,N/A,2
+142,142,Workstations,NULL,10.1.10.142,NULL,5,N/A,N/A,2
+143,143,Workstations,NULL,10.1.10.143,NULL,5,N/A,N/A,2
+144,144,Workstations,NULL,10.1.10.144,NULL,5,N/A,N/A,2
+145,145,Workstations,NULL,10.1.10.145,NULL,5,N/A,N/A,2
+146,146,Workstations,NULL,10.1.10.146,NULL,5,N/A,N/A,2
+147,147,Workstations,TOMMY-PC,10.1.10.147,9c:2d:cd:1a:ed:5f,4,N/A,N/A,2
+148,148,Workstations,NULL,10.1.10.148,NULL,5,N/A,N/A,2
+149,149,Workstations,NULL,10.1.10.149,NULL,5,N/A,N/A,2
+150,150,Workstations,NULL,10.1.10.150,NULL,5,N/A,N/A,2
+151,151,Workstations,NULL,10.1.10.151,NULL,5,N/A,N/A,2
+152,152,Workstations,NULL,10.1.10.152,NULL,5,N/A,N/A,2
+153,153,Workstations,NULL,10.1.10.153,NULL,5,N/A,N/A,2
+154,154,Workstations,NULL,10.1.10.154,NULL,5,N/A,N/A,2
+155,155,Workstations,NULL,10.1.10.155,NULL,5,N/A,N/A,2
+156,156,Workstations,NULL,10.1.10.156,NULL,5,N/A,N/A,2
+157,157,Workstations,NULL,10.1.10.157,NULL,5,N/A,N/A,2
+158,158,Workstations,NULL,10.1.10.158,NULL,5,N/A,N/A,2
+159,159,Workstations,NULL,10.1.10.159,NULL,5,N/A,N/A,2
+160,160,Workstations,NULL,10.1.10.160,NULL,5,N/A,N/A,2
+161,161,Workstations,IT0094-JOHN,10.1.10.161,88:63:df:9f:d2:25,4,N/A,N/A,2
+162,162,Workstations,NULL,10.1.10.162,NULL,5,N/A,N/A,2
+163,163,Workstations,NULL,10.1.10.163,NULL,5,N/A,N/A,2
+164,164,Workstations,NULL,10.1.10.164,NULL,5,N/A,N/A,2
+165,165,Workstations,NULL,10.1.10.165,NULL,5,N/A,N/A,2
+166,166,Workstations,NULL,10.1.10.166,NULL,5,N/A,N/A,2
+167,167,Workstations,NULL,10.1.10.167,NULL,5,N/A,N/A,2
+168,168,Workstations,NULL,10.1.10.168,NULL,5,N/A,N/A,2
+169,169,Workstations,NULL,10.1.10.169,NULL,5,N/A,N/A,2
+170,170,Workstations,NULL,10.1.10.170,NULL,5,N/A,N/A,2
+171,171,Workstations,VLADIMIRS-IMAC,10.1.10.171,38:f9:d3:0f:8d:d4,4,N/A,N/A,2
+172,172,Workstations,NULL,10.1.10.172,NULL,5,N/A,N/A,2
+173,173,Workstations,NULL,10.1.10.173,NULL,5,N/A,N/A,2
+174,174,Workstations,NULL,10.1.10.174,NULL,5,N/A,N/A,2
+175,175,Workstations,NULL,10.1.10.175,NULL,5,N/A,N/A,2
+176,176,Workstations,NULL,10.1.10.176,NULL,5,N/A,N/A,2
+177,177,Workstations,NULL,10.1.10.177,NULL,5,N/A,N/A,2
+178,178,Workstations,NULL,10.1.10.178,NULL,5,N/A,N/A,2
+179,179,Workstations,NULL,10.1.10.179,NULL,5,N/A,N/A,2
+180,180,Workstations,NULL,10.1.10.180,NULL,5,N/A,N/A,2
+181,181,Workstations,NULL,10.1.10.181,NULL,5,N/A,N/A,2
+182,182,Workstations,NULL,10.1.10.182,NULL,5,N/A,N/A,2
+183,183,Workstations,NULL,10.1.10.183,NULL,5,N/A,N/A,2
+184,184,Workstations,NULL,10.1.10.184,NULL,5,N/A,N/A,2
+185,185,Workstations,LAPTOP-0RN1LOEN,10.1.10.185,5c:ff:35:d7:39:13,4,N/A,N/A,2
+186,186,Workstations,NULL,10.1.10.186,NULL,5,N/A,N/A,2
+187,187,Workstations,NULL,10.1.10.187,NULL,5,N/A,N/A,2
+188,188,Workstations,NULL,10.1.10.188,NULL,5,N/A,N/A,2
+189,189,Workstations,IT0079,10.1.10.189,68:5b:35:97:f4:28,4,N/A,N/A,2
+190,190,Workstations,NULL,10.1.10.190,NULL,5,N/A,N/A,2
+191,191,Workstations,NULL,10.1.10.191,NULL,5,N/A,N/A,2
+192,192,Workstations,NULL,10.1.10.192,NULL,5,N/A,N/A,2
+193,193,Workstations,NULL,10.1.10.193,NULL,5,N/A,N/A,2
+194,194,Workstations,NULL,10.1.10.194,NULL,5,N/A,N/A,2
+195,195,Workstations,NULL,10.1.10.195,NULL,5,N/A,N/A,2
+196,196,Workstations,NULL,10.1.10.196,NULL,5,N/A,N/A,2
+197,197,Workstations,LAPTOP-EMJ20DC0,10.1.10.197,30:89:4a:68:7f:1d,4,N/A,N/A,2
+198,198,Workstations,NULL,10.1.10.198,NULL,5,N/A,N/A,2
+199,199,Workstations,NULL,10.1.10.199,NULL,5,N/A,N/A,2
+200,200,Workstations,DESKTOP-04OTFGH,10.1.10.200,98:ee:cb:a6:63:22,4,N/A,N/A,2
+201,201,Workstations,NULL,10.1.10.201,NULL,5,N/A,N/A,2
+202,202,Workstations,NULL,10.1.10.202,NULL,5,N/A,N/A,2
+203,203,Workstations,NULL,10.1.10.203,NULL,5,N/A,N/A,2
+204,204,Workstations,NULL,10.1.10.204,NULL,5,N/A,N/A,2
+205,205,Workstations,NULL,10.1.10.205,NULL,5,N/A,N/A,2
+206,206,Workstations,NULL,10.1.10.206,NULL,5,N/A,N/A,2
+207,207,Workstations,NULL,10.1.10.207,NULL,5,N/A,N/A,2
+208,208,Workstations,NULL,10.1.10.208,NULL,5,N/A,N/A,2
+209,209,Workstations,NULL,10.1.10.209,NULL,5,N/A,N/A,2
+210,210,Workstations,NULL,10.1.10.210,NULL,5,N/A,N/A,2
+211,211,Workstations,NULL,10.1.10.211,NULL,5,N/A,N/A,2
+212,212,Workstations,NULL,10.1.10.212,NULL,5,N/A,N/A,2
+213,213,Workstations,NULL,10.1.10.213,NULL,5,N/A,N/A,2
+214,214,Workstations,NULL,10.1.10.214,NULL,5,N/A,N/A,2
+215,215,Workstations,NULL,10.1.10.215,NULL,5,N/A,N/A,2
+216,216,Workstations,NULL,10.1.10.216,NULL,5,N/A,N/A,2
+217,217,Workstations,NULL,10.1.10.217,NULL,5,N/A,N/A,2
+218,218,Workstations,NULL,10.1.10.218,NULL,5,N/A,N/A,2
+219,219,Workstations,NULL,10.1.10.219,NULL,5,N/A,N/A,2
+220,220,Workstations,KM65D941,10.1.10.220,00:00:00:00:00:00,4,N/A,N/A,2
+221,221,Workstations,NULL,10.1.10.221,NULL,5,N/A,N/A,2
+222,222,Workstations,NULL,10.1.10.222,NULL,5,N/A,N/A,2
+223,223,Workstations,NULL,10.1.10.223,NULL,5,N/A,N/A,2
+224,224,Workstations,NULL,10.1.10.224,NULL,5,N/A,N/A,2
+225,225,Workstations,NULL,10.1.10.225,NULL,5,N/A,N/A,2
+226,226,Workstations,NULL,10.1.10.226,NULL,5,N/A,N/A,2
+227,227,Workstations,NULL,10.1.10.227,NULL,5,N/A,N/A,2
+228,228,Workstations,NULL,10.1.10.228,NULL,5,N/A,N/A,2
+229,229,Workstations,NULL,10.1.10.229,NULL,5,N/A,N/A,2
+230,230,Workstations,NULL,10.1.10.230,NULL,5,N/A,N/A,2
+231,231,Workstations,NULL,10.1.10.231,NULL,5,N/A,N/A,2
+232,232,Workstations,NULL,10.1.10.232,NULL,5,N/A,N/A,2
+233,233,Workstations,NULL,10.1.10.233,NULL,5,N/A,N/A,2
+234,234,Workstations,NULL,10.1.10.234,NULL,5,N/A,N/A,2
+235,235,Workstations,NULL,10.1.10.235,NULL,5,N/A,N/A,2
+236,236,Workstations,NULL,10.1.10.236,NULL,5,N/A,N/A,2
+237,237,Workstations,NULL,10.1.10.237,NULL,5,N/A,N/A,2
+238,238,Workstations,NULL,10.1.10.238,NULL,5,N/A,N/A,2
+239,239,Workstations,NULL,10.1.10.239,NULL,5,N/A,N/A,2
+240,240,Workstations,NULL,10.1.10.240,NULL,5,N/A,N/A,2
+241,241,Workstations,NULL,10.1.10.241,NULL,5,N/A,N/A,2
+242,242,Workstations,NULL,10.1.10.242,NULL,5,N/A,N/A,2
+243,243,Workstations,NULL,10.1.10.243,NULL,5,N/A,N/A,2
+244,244,Workstations,NULL,10.1.10.244,NULL,5,N/A,N/A,2
+245,245,Workstations,NULL,10.1.10.245,NULL,5,N/A,N/A,2
+246,246,Workstations,NULL,10.1.10.246,NULL,5,N/A,N/A,2
+247,247,Workstations,NULL,10.1.10.247,NULL,5,N/A,N/A,2
+248,248,Workstations,NULL,10.1.10.248,NULL,5,N/A,N/A,2
+249,249,Workstations,NULL,10.1.10.249,NULL,5,N/A,N/A,2
+250,250,Workstations,NULL,10.1.10.250,NULL,5,N/A,N/A,2
+251,251,Workstations,NULL,10.1.10.251,NULL,5,N/A,N/A,2
+252,252,Workstations,NULL,10.1.10.252,NULL,5,N/A,N/A,2
+253,253,Workstations,NULL,10.1.10.253,NULL,5,N/A,N/A,2
+254,254,Workstations,NULL,10.1.10.254,NULL,5,N/A,N/A,2
+255,255,Workstations,NULL,10.1.10.255,NULL,5,N/A,N/A,2
+256,256,Nodes,BOREHOLE-R1-01,10.1.50.1,00:02:c9:53:30:1e,4,Mellanox Technologies,N/A,1
+257,257,Nodes,BOREHOLE-R1-02,10.1.50.2,00:02:c9:55:8b:46,4,Mellanox Technologies,N/A,1
+258,258,Nodes,BOREHOLE-R1-03,10.1.50.3,00:02:c9:53:30:96,4,Mellanox Technologies,N/A,1
+259,259,Nodes,NULL,10.1.50.4,NULL,5,Mellanox Technologies,N/A,1
+260,260,Nodes,BOREHOLE-R1-05,10.1.50.5,00:02:c9:53:35:4a,4,Mellanox Technologies,N/A,1
+261,261,Nodes,BOREHOLE-R1-06,10.1.50.6,00:02:c9:55:9a:c6,4,Mellanox Technologies,N/A,1
+262,262,Nodes,NULL,10.1.50.7,NULL,5,Mellanox Technologies,N/A,1
+263,263,Nodes,NULL,10.1.50.8,NULL,5,Mellanox Technologies,N/A,1
+264,264,Nodes,BOREHOLE-R1-09,10.1.50.9,00:02:c9:56:1b:04,4,Mellanox Technologies,N/A,1
+265,265,Nodes,BOREHOLE-R1-10,10.1.50.10,00:02:c9:56:c8:64,4,Mellanox Technologies,N/A,1
+266,266,Nodes,BOREHOLE-R1-11,10.1.50.11,00:02:c9:53:14:5c,4,Mellanox Technologies,N/A,1
+267,267,Nodes,BOREHOLE-R1-12,10.1.50.12,00:02:c9:55:fb:32,4,Mellanox Technologies,N/A,1
+268,268,Nodes,NULL,10.1.50.13,NULL,5,Mellanox Technologies,N/A,1
+269,269,Nodes,NULL,10.1.50.14,NULL,5,Mellanox Technologies,N/A,1
+270,270,Nodes,NULL,10.1.50.15,NULL,5,Mellanox Technologies,N/A,1
+271,271,Nodes,NULL,10.1.50.16,NULL,5,Mellanox Technologies,N/A,1
+272,272,Nodes,NULL,10.1.50.17,NULL,5,Mellanox Technologies,N/A,1
+273,273,Nodes,BOREHOLE-R1-18,10.1.50.18,00:02:c9:56:9d:4a,4,Mellanox Technologies,N/A,1
+274,274,Nodes,BOREHOLE-R1-19,10.1.50.19,00:02:c9:56:db:6a,4,Mellanox Technologies,N/A,1
+275,275,Nodes,BOREHOLE-R1-20,10.1.50.20,00:02:c9:56:28:de,4,Mellanox Technologies,N/A,1
+276,276,Nodes,BOREHOLE-R1-21,10.1.50.21,00:02:c9:53:05:3c,4,Mellanox Technologies,N/A,1
+277,277,Nodes,BOREHOLE-R1-22,10.1.50.22,00:02:c9:54:e6:5c,4,Mellanox Technologies,N/A,1
+278,278,Nodes,BOREHOLE-R1-23,10.1.50.23,00:02:c9:54:cf:86,4,Mellanox Technologies,N/A,1
+279,279,Nodes,BOREHOLE-R1-24,10.1.50.24,00:02:c9:57:11:ee,4,Mellanox Technologies,N/A,1
+280,280,Nodes,BOREHOLE-R1-25,10.1.50.25,00:02:c9:56:f9:48,4,Mellanox Technologies,N/A,1
+281,281,Nodes,BOREHOLE-R1-26,10.1.50.26,00:02:c9:53:31:1e,4,Mellanox Technologies,N/A,1
+282,282,Nodes,BOREHOLE-R1-27,10.1.50.27,00:02:c9:56:f6:c8,4,Mellanox Technologies,N/A,1
+283,283,Nodes,BOREHOLE-R1-28,10.1.50.28,00:02:c9:56:c8:44,4,Mellanox Technologies,N/A,1
+284,284,Nodes,BOREHOLE-R1-29,10.1.50.29,00:02:c9:53:00:62,4,Mellanox Technologies,N/A,1
+285,285,Nodes,BOREHOLE-R1-30,10.1.50.30,00:02:c9:56:f4:80,4,Mellanox Technologies,N/A,1
+286,286,Nodes,NULL,10.1.50.31,NULL,5,Mellanox Technologies,N/A,1
+287,287,Nodes,BOREHOLE-R1-32,10.1.50.32,00:02:c9:53:31:d2,4,Mellanox Technologies,N/A,1
+288,288,Nodes,BOREHOLE-R1-33,10.1.50.33,00:02:c9:55:11:1a,4,Mellanox Technologies,N/A,1
+289,289,Nodes,BOREHOLE-R1-34,10.1.50.34,00:02:c9:55:fb:24,4,Mellanox Technologies,N/A,1
+290,290,Nodes,BOREHOLE-R1-35,10.1.50.35,00:02:c9:54:6a:f2,4,Mellanox Technologies,N/A,1
+291,291,Nodes,BOREHOLE-R1-36,10.1.50.36,00:02:c9:55:0e:8e,4,Mellanox Technologies,N/A,1
+292,292,Nodes,BOREHOLE-R1-37,10.1.50.37,00:02:c9:54:f2:94,4,Mellanox Technologies,N/A,1
+293,293,Nodes,BOREHOLE-R1-38,10.1.50.38,00:02:c9:56:fc:c0,4,Mellanox Technologies,N/A,1
+294,294,Nodes,BOREHOLE-R1-39,10.1.50.39,00:02:c9:54:39:82,4,Mellanox Technologies,N/A,1
+295,295,Nodes,NULL,10.1.50.40,NULL,5,Mellanox Technologies,N/A,1
+296,296,Nodes,NULL,10.1.51.1,NULL,5,Mellanox Technologies,N/A,1
+297,297,Nodes,BOREHOLE-ND2,10.1.51.2,00:02:c9:54:e7:00,4,Mellanox Technologies,N/A,1
+298,298,Nodes,BOREHOLE-ND3,10.1.51.3,00:02:c9:56:fa:7c,4,Mellanox Technologies,N/A,1
+299,299,Nodes,BOREHOLE-ND4,10.1.51.4,00:02:c9:57:1a:08,4,Mellanox Technologies,N/A,1
+300,300,Nodes,BOREHOLE-ND5,10.1.51.5,00:02:c9:54:dc:fe,4,Mellanox Technologies,N/A,1
+301,301,Nodes,BOREHOLE-ND6,10.1.51.6,00:02:c9:54:e2:48,4,Mellanox Technologies,N/A,1
+302,302,Nodes,BOREHOLE-ND7,10.1.51.7,00:02:c9:57:1a:02,4,Mellanox Technologies,N/A,1
+303,303,Nodes,BOREHOLE-ND8,10.1.51.8,00:02:c9:56:82:50,4,Mellanox Technologies,N/A,1
+304,304,Nodes,BOREHOLE-ND9,10.1.51.9,00:02:c9:56:ae:ca,4,Mellanox Technologies,N/A,1
+305,305,Nodes,BOREHOLE-ND10,10.1.51.10,00:02:c9:56:85:6e,4,Mellanox Technologies,N/A,1
+306,306,Nodes,BOREHOLE-ND11,10.1.51.11,00:02:c9:52:e3:fe,4,Mellanox Technologies,N/A,1
+307,307,Nodes,BOREHOLE-ND12,10.1.51.12,00:02:c9:52:d4:f6,4,Mellanox Technologies,N/A,1
+308,308,Nodes,BOREHOLE-ND13,10.1.51.13,00:02:c9:56:c0:1e,4,Mellanox Technologies,N/A,1
+309,309,Nodes,BOREHOLE-ND14,10.1.51.14,00:02:c9:54:e6:62,4,Mellanox Technologies,N/A,1
+310,310,Nodes,BOREHOLE-ND15,10.1.51.15,00:02:c9:54:f2:6a,4,Mellanox Technologies,N/A,1
+311,311,Nodes,BOREHOLE-ND16,10.1.51.16,00:02:c9:56:b7:be,4,Mellanox Technologies,N/A,1
+312,312,Nodes,BOREHOLE-ND17,10.1.51.17,00:02:c9:54:d7:ca,4,Mellanox Technologies,N/A,1
+313,313,Nodes,BOREHOLE-ND18,10.1.51.18,00:02:c9:54:ec:a0,4,Mellanox Technologies,N/A,1
+314,314,Nodes,BOREHOLE-ND19,10.1.51.19,00:02:c9:57:60:84,4,Mellanox Technologies,N/A,1
+315,315,Nodes,NULL,10.1.51.20,NULL,5,Mellanox Technologies,N/A,1
+316,316,Nodes,BOREHOLE-ND21,10.1.51.21,00:02:c9:56:fe:64,4,Mellanox Technologies,N/A,1
+317,317,Nodes,BOREHOLE-ND22,10.1.51.22,00:02:c9:57:53:4e,4,Mellanox Technologies,N/A,1
+318,318,Nodes,BOREHOLE-ND23,10.1.51.23,00:02:c9:55:a0:92,4,Mellanox Technologies,N/A,1
+319,319,Nodes,BOREHOLE-ND24,10.1.51.24,00:02:c9:55:a0:40,4,Mellanox Technologies,N/A,1
+320,320,Nodes,BOREHOLE-ND25,10.1.51.25,00:02:c9:56:9e:0a,4,Mellanox Technologies,N/A,1
+321,321,Nodes,BOREHOLE-ND26,10.1.51.26,00:02:c9:56:b2:34,4,Mellanox Technologies,N/A,1
+322,322,Nodes,BOREHOLE-ND27,10.1.51.27,00:02:c9:56:87:e6,4,Mellanox Technologies,N/A,1
+323,323,Nodes,BOREHOLE-ND28,10.1.51.28,00:02:c9:56:c8:48,4,Mellanox Technologies,N/A,1
+324,324,Nodes,BOREHOLE-ND29,10.1.51.29,00:02:c9:55:95:c6,4,Mellanox Technologies,N/A,1
+325,325,Nodes,BOREHOLE-ND30,10.1.51.30,00:02:c9:55:83:0e,4,Mellanox Technologies,N/A,1
+326,326,Nodes,BOREHOLE-ND31,10.1.51.31,00:02:c9:56:8c:14,4,Mellanox Technologies,N/A,1
+327,327,Nodes,BOREHOLE-ND32,10.1.51.32,00:02:c9:55:a1:90,4,Mellanox Technologies,N/A,1
+328,328,Nodes,BOREHOLE-ND33,10.1.51.33,00:02:c9:57:13:66,4,Mellanox Technologies,N/A,1
+329,329,Nodes,BOREHOLE-ND-34,10.1.51.34,00:02:c9:54:79:ac,4,Mellanox Technologies,N/A,1
+330,330,Nodes,NULL,10.1.51.35,NULL,5,Mellanox Technologies,N/A,1
+331,331,Nodes,BOREHOLE-ND36,10.1.51.36,00:02:c9:53:31:dc,4,Mellanox Technologies,N/A,1
+332,332,Nodes,BOREHOLE-ND37,10.1.51.37,00:02:c9:54:f3:3a,4,Mellanox Technologies,N/A,1
+333,333,Nodes,BOREHOLE-ND38,10.1.51.38,00:02:c9:57:19:d4,4,Mellanox Technologies,N/A,1
+334,334,Nodes,BOREHOLE-ND39,10.1.51.39,00:02:c9:54:37:22,4,Mellanox Technologies,N/A,1
+335,335,Nodes,BOREHOLE-ND40,10.1.51.40,00:02:c9:54:c1:52,4,Mellanox Technologies,N/A,1
+336,336,Nodes,BOREHOLE2-PC1,10.1.52.1,00:02:c9:56:f3:4a,4,Mellanox Technologies,N/A,1
+337,337,Nodes,NULL,10.1.52.2,NULL,5,Mellanox Technologies,N/A,1
+338,338,Nodes,BOREHOLE2-PC3,10.1.52.3,00:02:c9:54:c4:aa,4,Mellanox Technologies,N/A,1
+339,339,Nodes,BOREHOLE2-PC4,10.1.52.4,00:02:c9:56:fc:fe,4,Mellanox Technologies,N/A,1
+340,340,Nodes,BOREHOLE2-PC5,10.1.52.5,00:02:c9:57:01:52,4,Mellanox Technologies,N/A,1
+341,341,Nodes,BOREHOLE2-PC6,10.1.52.6,00:02:c9:50:cf:80,4,Mellanox Technologies,N/A,1
+342,342,Nodes,BOREHOLE2-PC7,10.1.52.7,00:02:c9:56:fd:da,4,Mellanox Technologies,N/A,1
+343,343,Nodes,BOREHOLE2-PC8,10.1.52.8,00:02:c9:52:e1:96,4,Mellanox Technologies,N/A,1
+344,344,Nodes,BOREHOLE2-PC9,10.1.52.9,00:02:c9:54:69:44,4,Mellanox Technologies,N/A,1
+345,345,Nodes,BOREHOLE2-PC10,10.1.52.10,00:02:c9:56:a6:b6,4,Mellanox Technologies,N/A,1
+346,346,Nodes,BOREHOLE2-PC11,10.1.52.11,00:02:c9:54:27:e2,4,Mellanox Technologies,N/A,1
+347,347,Nodes,NULL,10.1.52.12,NULL,5,Mellanox Technologies,N/A,1
+348,348,Nodes,BOREHOLE2-PC13,10.1.52.13,00:02:c9:56:aa:38,4,Mellanox Technologies,N/A,1
+349,349,Nodes,BOREHOLE2-PC14,10.1.52.14,00:02:c9:57:17:5c,4,Mellanox Technologies,N/A,1
+350,350,Nodes,BOREHOLE2-PC15,10.1.52.15,00:02:c9:57:53:32,4,Mellanox Technologies,N/A,1
+351,351,Nodes,BOREHOLE2-PC16,10.1.52.16,00:02:c9:55:94:be,4,Mellanox Technologies,N/A,1
+352,352,Nodes,BOREHOLE2-PC17,10.1.52.17,00:02:c9:54:f1:f4,4,Mellanox Technologies,N/A,1
+353,353,Nodes,BOREHOLE2-PC18,10.1.52.18,00:02:c9:56:ca:28,4,Mellanox Technologies,N/A,1
+354,354,Nodes,BOREHOLE2-PC19,10.1.52.19,00:02:c9:54:e0:be,4,Mellanox Technologies,N/A,1
+355,355,Nodes,BOREHOLE2-PC20,10.1.52.20,00:02:c9:54:54:18,4,Mellanox Technologies,N/A,1
+356,356,Nodes,BOREHOLE2-PC21,10.1.52.21,00:02:c9:55:f5:fc,4,Mellanox Technologies,N/A,1
+357,357,Nodes,NULL,10.1.52.22,NULL,5,Mellanox Technologies,N/A,1
+358,358,Nodes,BOREHOLE2-PC23,10.1.52.23,00:02:c9:57:1d:ca,4,Mellanox Technologies,N/A,1
+359,359,Nodes,BOREHOLE2-PC24,10.1.52.24,00:02:c9:55:8c:8c,4,Mellanox Technologies,N/A,1
+360,360,Nodes,BOREHOLE2-PC25,10.1.52.25,00:02:c9:53:35:58,4,Mellanox Technologies,N/A,1
+361,361,Nodes,BOREHOLE2-PC26,10.1.52.26,00:02:c9:55:a0:0e,4,Mellanox Technologies,N/A,1
+362,362,Nodes,BOREHOLE2-PC27,10.1.52.27,00:02:c9:55:6f:94,4,Mellanox Technologies,N/A,1
+363,363,Nodes,BOREHOLE2-PC28,10.1.52.28,00:02:c9:57:56:ae,4,Mellanox Technologies,N/A,1
+364,364,Nodes,NULL,10.1.52.29,NULL,5,Mellanox Technologies,N/A,1
+365,365,Nodes,BOREHOLE2-PC30,10.1.52.30,00:02:c9:55:94:d2,4,Mellanox Technologies,N/A,1
+366,366,Nodes,BOREHOLE2-PC31,10.1.52.31,00:02:c9:57:60:8c,4,Mellanox Technologies,N/A,1
+367,367,Nodes,BOREHOLE2-PC32,10.1.52.32,00:02:c9:55:0a:e6,4,Mellanox Technologies,N/A,1
+368,368,Nodes,BOREHOLE2-PC33,10.1.52.33,00:02:c9:56:fa:86,4,Mellanox Technologies,N/A,1
+369,369,Nodes,BOREHOLE2-PC34,10.1.52.34,00:02:c9:54:62:6a,4,Mellanox Technologies,N/A,1
+370,370,Nodes,BOREHOLE2-PC35,10.1.52.35,00:02:c9:54:eb:9c,4,Mellanox Technologies,N/A,1
+371,371,Nodes,BOREHOLE2-PC36,10.1.52.36,00:02:c9:53:ff:9e,4,Mellanox Technologies,N/A,1
+372,372,Nodes,BOREHOLE2-PC37,10.1.52.37,00:02:c9:53:30:32,4,Mellanox Technologies,N/A,1
+373,373,Nodes,NULL,10.1.52.38,NULL,5,Mellanox Technologies,N/A,1
+374,374,Nodes,BOREHOLE2-PC39,10.1.52.39,00:02:c9:54:fa:c4,4,Mellanox Technologies,N/A,1
+375,375,Nodes,BOREHOLE2-PC40,10.1.52.40,00:02:c9:54:da:66,4,Mellanox Technologies,N/A,1
+376,376,Nodes,NULL,10.1.53.1,NULL,5,Mellanox Technologies,N/A,1
+377,377,Nodes,BOREHOLE-R2-02,10.1.53.2,00:02:c9:57:13:d2,4,Mellanox Technologies,N/A,1
+378,378,Nodes,NULL,10.1.53.3,NULL,5,Mellanox Technologies,N/A,1
+379,379,Nodes,NULL,10.1.53.4,NULL,5,Mellanox Technologies,N/A,1
+380,380,Nodes,NULL,10.1.53.5,NULL,5,Mellanox Technologies,N/A,1
+381,381,Nodes,NULL,10.1.53.6,NULL,5,Mellanox Technologies,N/A,1
+382,382,Nodes,BOREHOLE-R2-07,10.1.53.7,00:02:c9:56:f4:2e,4,Mellanox Technologies,N/A,1
+383,383,Nodes,BOREHOLE-R2-08,10.1.53.8,00:02:c9:56:c1:40,4,Mellanox Technologies,N/A,1
+384,384,Nodes,BOREHOLE-R1-09,10.1.53.9,00:02:c9:55:b9:44,4,Mellanox Technologies,N/A,1
+385,385,Nodes,BOREHOLE-R2-10,10.1.53.10,00:02:c9:57:5d:3a,4,Mellanox Technologies,N/A,1
+386,386,Nodes,BOREHOLE-R3-11,10.1.53.11,00:02:c9:57:18:f8,4,Mellanox Technologies,N/A,1
+387,387,Nodes,BOREHOLE-R2-12,10.1.53.12,00:02:c9:54:c9:88,4,Mellanox Technologies,N/A,1
+388,388,Nodes,NULL,10.1.53.13,NULL,5,Mellanox Technologies,N/A,1
+389,389,Nodes,NULL,10.1.53.14,NULL,5,Mellanox Technologies,N/A,1
+390,390,Nodes,NULL,10.1.53.15,NULL,5,Mellanox Technologies,N/A,1
+391,391,Nodes,NULL,10.1.53.16,NULL,5,Mellanox Technologies,N/A,1
+392,392,Nodes,NULL,10.1.53.17,NULL,5,Mellanox Technologies,N/A,1
+393,393,Nodes,NULL,10.1.53.18,NULL,5,Mellanox Technologies,N/A,1
+394,394,Nodes,NULL,10.1.53.19,NULL,5,Mellanox Technologies,N/A,1
+395,395,Nodes,NULL,10.1.53.20,NULL,5,Mellanox Technologies,N/A,1
+396,396,Nodes,NULL,10.1.53.21,NULL,5,Mellanox Technologies,N/A,1
+397,397,Nodes,BOREHOLE-R3-22,10.1.53.22,00:02:c9:55:8f:16,4,Mellanox Technologies,N/A,1
+398,398,Nodes,NULL,10.1.53.23,NULL,5,Mellanox Technologies,N/A,1
+399,399,Nodes,NULL,10.1.53.24,NULL,5,Mellanox Technologies,N/A,1
+400,400,Nodes,NULL,10.1.53.25,NULL,5,Mellanox Technologies,N/A,1
+401,401,Nodes,NULL,10.1.53.26,NULL,5,Mellanox Technologies,N/A,1
+402,402,Nodes,NULL,10.1.53.27,NULL,5,Mellanox Technologies,N/A,1
+403,403,Nodes,NULL,10.1.53.28,NULL,5,Mellanox Technologies,N/A,1
+404,404,Nodes,NULL,10.1.53.29,NULL,5,Mellanox Technologies,N/A,1
+405,405,Nodes,NULL,10.1.53.30,NULL,5,Mellanox Technologies,N/A,1
+406,406,Nodes,NULL,10.1.53.31,NULL,5,Mellanox Technologies,N/A,1
+407,407,Nodes,NULL,10.1.53.32,NULL,5,Mellanox Technologies,N/A,1
+408,408,Nodes,NULL,10.1.53.33,NULL,5,Mellanox Technologies,N/A,1
+409,409,Nodes,NULL,10.1.53.34,NULL,5,Mellanox Technologies,N/A,1
+410,410,Nodes,NULL,10.1.53.35,NULL,5,Mellanox Technologies,N/A,1
+411,411,Nodes,NULL,10.1.53.36,NULL,5,Mellanox Technologies,N/A,1
+412,412,Nodes,NULL,10.1.53.37,NULL,5,Mellanox Technologies,N/A,1
+413,413,Nodes,NULL,10.1.53.38,NULL,5,Mellanox Technologies,N/A,1
+414,414,Nodes,NULL,10.1.53.39,NULL,5,Mellanox Technologies,N/A,1
+415,415,Nodes,NULL,10.1.53.40,NULL,5,Mellanox Technologies,N/A,1
+416,416,Nodes,BOREHOLE-PC,10.1.54.1,9c:53:22:cc:97:39,4,Mellanox Technologies,N/A,1
+417,417,Nodes,NULL,10.1.54.2,NULL,5,Mellanox Technologies,N/A,1
+418,418,Nodes,NULL,10.1.54.3,NULL,5,Mellanox Technologies,N/A,1
+419,419,Nodes,BOREHOLE-R5-02,10.1.54.4,e8:9a:8f:4f:ff:95,4,Mellanox Technologies,N/A,1
+420,420,Nodes,NULL,10.1.54.5,NULL,5,Mellanox Technologies,N/A,1
+421,421,Nodes,NULL,10.1.54.6,NULL,5,Mellanox Technologies,N/A,1
+422,422,Nodes,NULL,10.1.54.7,NULL,5,Mellanox Technologies,N/A,1
+423,423,Nodes,NULL,10.1.54.8,NULL,5,Mellanox Technologies,N/A,1
+424,424,Nodes,NULL,10.1.54.9,NULL,5,Mellanox Technologies,N/A,1
+425,425,Nodes,NULL,10.1.54.10,NULL,5,Mellanox Technologies,N/A,1
+426,426,Nodes,NULL,10.1.54.11,NULL,5,Mellanox Technologies,N/A,1
+427,427,Nodes,NULL,10.1.54.12,NULL,5,Mellanox Technologies,N/A,1
+428,428,Nodes,NULL,10.1.54.13,NULL,5,Mellanox Technologies,N/A,1
+429,429,Nodes,NULL,10.1.54.14,NULL,5,Mellanox Technologies,N/A,1
+430,430,Nodes,NULL,10.1.54.15,NULL,5,Mellanox Technologies,N/A,1
+431,431,Nodes,NULL,10.1.54.16,NULL,5,Mellanox Technologies,N/A,1
+432,432,Nodes,NULL,10.1.54.17,NULL,5,Mellanox Technologies,N/A,1
+433,433,Nodes,NULL,10.1.54.18,NULL,5,Mellanox Technologies,N/A,1
+434,434,Nodes,NULL,10.1.54.19,NULL,5,Mellanox Technologies,N/A,1
+435,435,Nodes,NULL,10.1.54.20,NULL,5,Mellanox Technologies,N/A,1

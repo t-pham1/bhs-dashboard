@@ -1,0 +1,8 @@
+10.1.53.11,BOREHOLE-R3-11 ,<server>,<unknown>,00:02:c9:57:18:f8
+10.1.53.9,BOREHOLE-R1-09 ,<server>,<unknown>,00:02:c9:55:b9:44
+10.1.53.10,BOREHOLE-R2-10 ,<server>,<unknown>,00:02:c9:57:5d:3a
+10.1.53.12,BOREHOLE-R2-12 ,<server>,<unknown>,00:02:c9:54:c9:88
+10.1.53.8,BOREHOLE-R2-08 ,<server>,<unknown>,00:02:c9:56:c1:40
+10.1.53.2,BOREHOLE-R2-02 ,<server>,<unknown>,00:02:c9:57:13:d2
+10.1.53.22,BOREHOLE-R3-22 ,<server>,<unknown>,00:02:c9:55:8f:16
+10.1.53.7,BOREHOLE-R2-07 ,<server>,<unknown>,00:02:c9:56:f4:2e
